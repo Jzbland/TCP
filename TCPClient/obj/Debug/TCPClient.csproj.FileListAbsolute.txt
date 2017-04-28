@@ -1,0 +1,50 @@
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.pdb
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.pdb
+D:\我的文档\桌面\227198_1275652034\TCPClient\obj\Debug\TCPClient.exe
+D:\我的文档\桌面\227198_1275652034\TCPClient\obj\Debug\TCPClient.pdb
+D:\我的文档\桌面\227198_1275652034\TCPClient\bin\Debug\TCPClient.exe
+D:\我的文档\桌面\227198_1275652034\TCPClient\bin\Debug\TCPClient.pdb
+D:\我的文档\桌面\227198_1275652034\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\桌面\227198_1275652034\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\我的文档\桌面\227198_1275652034\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\我的文档\桌面\227198_1275652034\TCPClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\我的文档\桌面\227198_1275652034\TCPClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\quiet\桌面\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\quiet\桌面\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+D:\C#程序\TCPClient\bin\Debug\TCPClient.exe.config
+D:\C#程序\TCPClient\obj\Debug\TCPClient.exe
+D:\C#程序\TCPClient\obj\Debug\TCPClient.pdb
+D:\C#程序\TCPClient\bin\Debug\TCPClient.exe
+D:\C#程序\TCPClient\bin\Debug\TCPClient.pdb
+D:\C#程序\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\C#程序\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\C#程序\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\C#程序\TCPClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\C#程序\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+D:\C#程序\TCPClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\C#程序\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+D:\MyUtils\TCPClient\bin\Debug\TCPClient.exe.config
+D:\MyUtils\TCPClient\obj\Debug\TCPClient.exe
+D:\MyUtils\TCPClient\obj\Debug\TCPClient.pdb
+D:\MyUtils\TCPClient\bin\Debug\TCPClient.exe
+D:\MyUtils\TCPClient\bin\Debug\TCPClient.pdb
+D:\MyUtils\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+D:\MyUtils\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\MyUtils\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\MyUtils\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache

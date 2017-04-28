@@ -1,0 +1,50 @@
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\bin\Debug\TCPServer.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\bin\Debug\TCPServer.pdb
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPServer\obj\Debug\TCPServer.pdb
+D:\我的文档\桌面\227198_1275651804\TCPServer\obj\Debug\TCPServer.exe
+D:\我的文档\桌面\227198_1275651804\TCPServer\obj\Debug\TCPServer.pdb
+D:\我的文档\桌面\227198_1275651804\TCPServer\bin\Debug\TCPServer.exe
+D:\我的文档\桌面\227198_1275651804\TCPServer\bin\Debug\TCPServer.pdb
+D:\我的文档\桌面\227198_1275651804\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\桌面\227198_1275651804\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\我的文档\桌面\227198_1275651804\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\我的文档\桌面\227198_1275651804\TCPServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\我的文档\桌面\227198_1275651804\TCPServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\TCPServer.exe
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\TCPServer.pdb
+C:\Documents and Settings\quiet\桌面\TCPServer\bin\Debug\TCPServer.exe
+C:\Documents and Settings\quiet\桌面\TCPServer\bin\Debug\TCPServer.pdb
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\quiet\桌面\TCPServer\obj\Debug\GenerateResource.write.1.tlog
+D:\C#程序\TCPServer\bin\Debug\TCPServer.exe.config
+D:\C#程序\TCPServer\obj\Debug\TCPServer.exe
+D:\C#程序\TCPServer\obj\Debug\TCPServer.pdb
+D:\C#程序\TCPServer\bin\Debug\TCPServer.exe
+D:\C#程序\TCPServer\bin\Debug\TCPServer.pdb
+D:\C#程序\TCPServer\obj\Debug\ResolveAssemblyReference.cache
+D:\C#程序\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\C#程序\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\C#程序\TCPServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\C#程序\TCPServer\obj\Debug\GenerateResource.read.1.tlog
+D:\C#程序\TCPServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\C#程序\TCPServer\obj\Debug\GenerateResource.write.1.tlog
+D:\MyUtils\TCPServer\bin\Debug\TCPServer.exe.config
+D:\MyUtils\TCPServer\obj\Debug\TCPServer.exe
+D:\MyUtils\TCPServer\obj\Debug\TCPServer.pdb
+D:\MyUtils\TCPServer\bin\Debug\TCPServer.exe
+D:\MyUtils\TCPServer\bin\Debug\TCPServer.pdb
+D:\MyUtils\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+D:\MyUtils\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\MyUtils\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\MyUtils\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
