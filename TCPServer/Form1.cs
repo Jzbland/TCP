@@ -238,7 +238,6 @@ namespace TCPServer
             {
                 EndPoint temp = (EndPoint)de.Key;
                 Socket s = (Socket)de.Value;
-
                 s.SendTo(sendData, temp);
             }
         }
