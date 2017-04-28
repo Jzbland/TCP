@@ -61,14 +61,14 @@ namespace TCPClient
                     if (stringdata == "STAR")
                     {
                         Debug.WriteLine("开始");
-                        start_VR();
+                       // start_VR();
                         showMsg("开启VR" + "\r\n");
 
                     }
                     else if (stringdata == "CLOSE")
                     {
                         Debug.WriteLine("关闭");
-                        close_VR();
+                        //close_VR();
                         showMsg("关闭VR" + "\r\n");
                     }
                     else {
