@@ -149,6 +149,7 @@ namespace TCPClient
             }
             catch (Exception)
             {
+            
             }
         }
     }
